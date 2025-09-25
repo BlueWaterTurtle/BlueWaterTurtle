@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BlueWaterTurtle
 - 👀 I’m interested in Learning 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything that is "beginner level"
-- 📫 How to reach me...
+- 💞️ I’m looking to collaborate on anything that I can learn from
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Apples are good for you
 
